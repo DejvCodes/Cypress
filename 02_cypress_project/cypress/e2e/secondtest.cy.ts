@@ -2,6 +2,7 @@
 Testovací soubor secondtest.cy.ts (test suite file)
 • describe -> testovací scénář, testovací skupina (test suite, test group)
 • it -> jednotlivý test (test case)
+
 • () => {} // popisuje sadu testů s názvem 'Moje druhá sada testů'
 */
 
