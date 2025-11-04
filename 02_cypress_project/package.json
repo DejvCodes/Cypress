@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open --e2e --browser chrome"
   },
   "devDependencies": {
     "cypress": "^15.5.0",

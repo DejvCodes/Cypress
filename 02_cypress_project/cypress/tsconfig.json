@@ -5,5 +5,5 @@
     "sourceMap": true,
     "types": ["cypress", "node"]
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts", "e2e/secondtest.cy.js"]
 }
