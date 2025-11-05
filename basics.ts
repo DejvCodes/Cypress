@@ -58,4 +58,4 @@ existují dva hlavní způsoby:
     • expect(5).to.equal(5)
     • expect('text').to.contain('te')
     • expect($el).to.have.class('active')    
-*/ 
+*/  
