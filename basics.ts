@@ -62,4 +62,4 @@ existují dva hlavní způsoby:
 • cy.get - výběr podle css selektorů
 • cy.contains - výběr podle textu
 • kombinace
-*/  
+*/ 
