@@ -57,5 +57,9 @@ existují dva hlavní způsoby:
 2. Explicitní (Chai expect syntax):
     • expect(5).to.equal(5)
     • expect('text').to.contain('te')
-    • expect($el).to.have.class('active')    
+    • expect($el).to.have.class('active')  
+    
+• cy.get - výběr podle css selektorů
+• cy.contains - výběr podle textu
+• kombinace
 */  
