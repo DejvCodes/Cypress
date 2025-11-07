@@ -107,4 +107,9 @@ plugin umožňuje realistické interakce jako:
 • cy.realHover()      -> skutečný hover
 • cy.realPress('Tab') -> simulace stisku klávesy
 • cy.realType('text') -> realistické psaní
+
+• within – omezí hledání prvků jen na vybraný kontejner
+• parents – vybere nadřazené elementy aktuálního prvku
+• as – vytvoří alias pro prvek nebo hodnotu, kterou lze znovu použít 
+     - cy.wrap(value).as('cpuValue') -> vypsání cy.get('@cpuValue');
 */ 
