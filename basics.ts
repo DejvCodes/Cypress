@@ -112,4 +112,9 @@ plugin umožňuje realistické interakce jako:
 • parents – vybere nadřazené elementy aktuálního prvku
 • as – vytvoří alias pro prvek nebo hodnotu, kterou lze znovu použít 
      - cy.wrap(value).as('cpuValue') -> vypsání cy.get('@cpuValue');
+
+Globální konfigurační hodnoty 
+• nastavení, která ovlivňují chování všech testů v Cypressu (např. baseUrl, defaultCommandTimeout, 
+  pageLoadTimeout, viewportWidth, viewportHeight, env, retries)
+• ukládají se do souboru cypress.config.ts a platí pro celý projekt
 */ 
