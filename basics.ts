@@ -131,4 +131,24 @@ Find - nejdříve cy.get | cy.contains
 Invoke 
 • zavolá metodu nebo získá vlastnost DOM prvku přímo z jQuery objektu
 • používá se např. pro čtení textu, atributů nebo volání funkcí mimo standardní Cypress příkazy
+
+Dokončení studia testování v Cypressu (E2E)
+• Mám hotové základní studium automatizovaného testování v Cypressu. 
+• Připravil jsem přehled s komentovanými ukázkami, které lze přímo použít jako výchozí 
+  kostru pro tvorbu E2E testů v projektu.
+
+Co mám zpracováno:
+• Základy ekosystému: Mocha (struktura testů), Cypress příkazy, aserce, konfigurace.
+• Práce s příkazy: cy.log, cy.visit, cy.get, aj. + osvědčené postupy pro čitelnost a stabilitu testů.
+• Struktura testů: describe, it, hooky before/after/beforeEach/afterEach.
+• Řízení běhu: rozdíly a použití skip, only, within, práce s parents, aliasy as, a invoke.
+• Aserce a selektory: get, contains, find, (případně xpath), včetně doporučení pro stabilní selektory.
+• Konfigurace projektu: pageLoadTimeout, defaultCommandTimeout apod., a kdy/ proč je měnit.
+
+Aktuálně:
+• Začínám testovat reálnou aplikaci (E2E), abych si principy upevnil na praxi.
+• Plánuji psát testy i do svých side-projektů ve volném čase, ať zvýším pokrytí i rutinu v Cypressu.
+
+Další krok:
+• Postupně se chci doučit Component Testing (testování komponent) a navázat na existující E2E základ.
 */ 
