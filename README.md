@@ -1,5 +1,5 @@
 ## 🧪 Cypress - End-to-End Testing
-A modern testing suite built with Cypress for automated end-to-end testing. <br>
+A modern testing suite built with Cypress for automated end-to-end testing.
 This repository contains comprehensive examples and test scenarios covering fundamental to advanced Cypress concepts.
 
 ## 🚀 Features
