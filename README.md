@@ -8,19 +8,6 @@ This repository contains comprehensive examples and test scenarios covering fund
 • **TypeScript Support** – Type-safe test configurations and examples. <br>
 • **Best Practices** – Industry-standard testing patterns and conventions. <br>
 
-## 📚 Cypress Concepts Covered
-**Fundamentals** <br>
-• Basic Selectors – Element targeting and querying <br>
-• Assertions – Test validations and expectations <br>
-• Commands – Built-in Cypress commands <br>
-• TypeScript Integration – Type-safe test writing <br>
-
-**Advanced Features** <br>
-• Custom Commands – Reusable test utilities <br>
-• Fixtures – Test data management <br>
-• Interceptors – Network request handling <br>
-• Page Object Pattern – Maintainable test architecture <br>
-
 ## 🏃🏻 How to Run this App
 1. Clone the repository: <br>
    • `git clone https://github.com/DejvCodes/Cypress.git` <br>
